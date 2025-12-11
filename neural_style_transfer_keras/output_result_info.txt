@@ -1,0 +1,12 @@
+Base image: content.jpg
+Style image: style5.jpg
+Iterations: 200
+Content weight: 0.025
+Style weight: 1.0
+TV weight: 1.0
+Image size: 400x599
+Initial noise: 0.0
+Final loss: 436796480.0
+Optimization time: 955.43 seconds
+Optimization info: {'grad': array([-10.28985977, -16.22279739,   1.57542467, ...,  -0.15877303,
+         3.35866427,   1.76475573]), 'task': 'STOP: TOTAL NO. of f AND g EVALUATIONS EXCEEDS LIMIT', 'funcalls': 202, 'nit': 192, 'warnflag': 1}
